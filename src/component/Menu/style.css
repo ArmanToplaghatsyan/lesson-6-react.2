@@ -1,0 +1,18 @@
+.menu{
+    padding: 20px;
+    background-color: antiquewhite;
+}
+
+.menu ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.active{
+    background-color: black;
+    color: white;
+    font-weight: 900;
+    padding: 10px;
+}

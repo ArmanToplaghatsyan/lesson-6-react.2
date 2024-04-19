@@ -1,0 +1,18 @@
+.App {
+  padding: 20px;
+  background-color: #5f5;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.error{
+  padding: 50px;
+  color: red ;
+  background-color: #000;
+}
